@@ -1,0 +1,16 @@
+.noContact {
+    width: 100%;
+    background-color: #93deff;
+    color: #606470;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.noContact p {
+    font-size: 1.1rem;
+    text-align: center;
+    color: #606470;
+}

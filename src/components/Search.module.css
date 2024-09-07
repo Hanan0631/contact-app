@@ -1,0 +1,37 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-top: 40px;
+  background-color: #93deff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.container p {
+  width: 200px;
+  margin-left: -40px;
+  font-size: 1rem;
+}
+
+input {
+  width: 100%;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  color: #606470;
+  padding: 10px;
+  font-family: "Yekan", monospace;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
